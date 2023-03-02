@@ -1,0 +1,65 @@
+@charset "UTF-8";
+.bg-dark {
+	background-color: #121111
+!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+	color: #FFFFFF;
+	font-family: Source Sans Pro;
+}
+.navbar-nav .nav-item {
+	border: 1px solid #FFFFFF;
+	width: 108px;
+	background-image: -webkit-linear-gradient(270deg,rgba(139,138,138,1.00) 0.13%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(139,138,138,1.00) 0.13%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(139,138,138,1.00) 0.13%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(139,138,138,1.00) 0.13%,rgba(0,0,0,1.00) 100%);
+	margin-top: 0px;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+header h2 {
+	font-family: Merriweather;
+	color: #8C048C;
+	font-size: 51px;
+	text-shadow: 0px 8px 12px rgba(156,8,156,0.00);
+	text-align: center;
+	margin-top: 1em;
+	letter-spacing: 0.12em;
+	line-height: 1em;
+}
+header p {
+	font-family: Lato;
+	color: #8C048C;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 150%;
+	line-height: 1em;
+	text-shadow: 0px 5px 7px rgba(156,8,156,0.36);
+	letter-spacing: 0.4em;
+	text-align: center;
+}
+.nav.container {
+	padding-bottom: 10px;
+	border-bottom: 2px solid #121111;
+}
+body {
+	border-left: 15px solid #121111;
+	border-right: 15px solid #121111;
+}
+footer {
+	padding-bottom: 0px;
+	padding-top: 5px;
+	color: #FFFFFF;
+	background-color: #121111;
+}
+header {
+	background-color: #121111;
+	background-image: url(Logo%202.png);
+	height: 178px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 85% auto;
+}
