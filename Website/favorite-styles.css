@@ -63,3 +63,51 @@ header {
 	background-repeat: no-repeat;
 	background-size: 88% auto;
 }
+tbody tr td {
+}
+table {
+	font-size: 85%;
+	width: 98%;
+	margin-bottom: 2em;
+	border-bottom: 4px solid #299810;
+	border-collapse: collapse;
+}
+td, th {
+	padding: 3px;
+	text-align: center;
+	border-top: 2px solid #299810;
+}
+th {
+	color: #000000;
+	text-align: left;
+	border-bottom: 5px solid #36C915;
+	background-color: #299810;
+}
+.aa-artists {
+	width: 18%;
+}
+.aa-location {
+	width: 40%;
+}
+.aa-date {
+	width: 18%;
+}
+.aa-rating {
+	width: 20%;
+	color: #DE9523;
+}
+table caption {
+	margin-top: 18px;
+	padding-bottom: 5px;
+	color: #299810;
+	font-size: 208%;
+	font-weight: bold;
+	line-height: 1.2em;
+	text-align: center;
+	caption-side: top;
+}
+blockquote cite {
+	text-align: right;
+	display: block;
+	font-style: normal;
+}
