@@ -111,3 +111,15 @@ blockquote cite {
 	display: block;
 	font-style: normal;
 }
+#contactme {
+}
+a {
+	color: #299810;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+a:link a:visited {
+	color: #B2B2B2;
+}
